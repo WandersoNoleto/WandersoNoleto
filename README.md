@@ -6,7 +6,7 @@
   
   ##
   <div align="center">
-    <h3>Linguagens e tecnologias<h3>
+    <h3>Linguagens e ferramentas<h3>
   </div>
   
       
