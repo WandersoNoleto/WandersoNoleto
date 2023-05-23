@@ -7,7 +7,7 @@
   
   ##
   <div align="center">
-    <h3>Linguagens e ferramentas<h3>
+    <h3>My skills<h3>
   </div>
   
       
