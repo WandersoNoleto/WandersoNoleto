@@ -35,9 +35,10 @@ I'm a Web Developer with a strong focus on backend development and a passion for
       </div>    
   
   ## 
+
   Feel free to contact me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonoleto/)
-  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](noleto.wanderson.dev@gmail.com)
+  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noleto.wanderson.dev@gmail.com)
   
 
   
