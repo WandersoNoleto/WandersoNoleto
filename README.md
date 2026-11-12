@@ -1,6 +1,6 @@
 # Wanderson Nolêto
 
-**Backend Engineer** · Python · Distributed systems · Caxias-MA, Brazil 🇧🇷
+**Backend Engineer** · Python · Distributed systems · MA, Brazil 🇧🇷
 
 I build and maintain backend services in production: REST APIs, microservices and event-driven integrations. My day-to-day stack is Python (Django, FastAPI) with PostgreSQL, Kafka and Redis, running on Docker and AWS.
 
